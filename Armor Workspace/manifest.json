@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Netherite like armor with Orange upper for Elytra, Netherite Armor Adjustments and Improved Armor Slot Backgrounds",
+        "name": "Beartech's Improved Armor v1_0",
+        "uuid": "cac64fdb-2444-4f2e-9315-b40c8e067de7",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 17, 10 ]
+    },
+    "modules": [
+        {
+            "description": "Beartech's Improved Armor v1_0 R",
+            "type": "resources",
+            "uuid": "80181fe4-9b94-49dc-9065-701008c1585c",
+            "version": [1, 0, 0]
+        }
+    ]
+}
